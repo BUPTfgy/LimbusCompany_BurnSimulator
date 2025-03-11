@@ -1,4 +1,4 @@
-# vue3-pdf-project
+# burn-simulator
 
 ## Project setup
 ```
