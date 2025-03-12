@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+基于Vue框架实现了《边狱巴士》的烧伤技能数值计算、导入配置以及流程模拟
